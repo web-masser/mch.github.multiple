@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './secondHand.vue'
+import App from './example.vue'
 import router from './router'
 import store from '@/store'
 import VConsole from 'vconsole'
